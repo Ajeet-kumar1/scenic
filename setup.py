@@ -82,7 +82,7 @@ install_requires_core = [
     "tensorflow-datasets",
     "optax @ git+https://github.com/deepmind/optax.git@master",
 ]
-
+# New addition
 tests_require = [
     "pytest",
     "shapely",
